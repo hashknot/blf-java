@@ -16,12 +16,11 @@ Clone the Repository.
 Note: The provided .class files are for JRE >= 1.7.0. If your JRE doesn't match, read the compilation steps.
 
 ##Compilation:
-
-1. Compile the "crawler" package.
+Compile the "crawler" package.
 
 	javac Crawler.java LinkStats.java
 
-2. Compile the "Project.java" file.
+Compile the "Project.java" file.
 
 	javac Project.java
 
