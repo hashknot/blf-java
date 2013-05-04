@@ -33,8 +33,6 @@ If "crawler" package is in some other directory.
 
 	java Project -cp <path/crawler/package> <URL> <Report/File/Path> <MaxDepthLevel> <MaxPages>'
 
-##Copyright and Licence
-
-2012 [JAKWorks] (http://www.facebook.com/JAKWorks)
-
-Broken Links Finder by JAKWorks is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+##Copyright and License
+Released under MIT License.  
+Copyright : 2013 [Jitesh Kamble] (http://www.facebook.com/crusador)
